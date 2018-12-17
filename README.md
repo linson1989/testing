@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/linson1989/LCV/_apis/build/status/linson1989.testing?branchName=master)](https://dev.azure.com/linson1989/LCV/_build/latest?definitionId=1?branchName=master)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
